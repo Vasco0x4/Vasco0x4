@@ -13,9 +13,9 @@ I'm a cybersecurity student and a developer in C++ and Python, with a passion fo
 ![Metasploit](https://img.shields.io/badge/Metasploit-0078D7?style=for-the-badge&logo=metasploit&logoColor=white)
 
 
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasco0x4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasco0x4&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasco0x4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Vasco0x4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasco0x4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasco0x4&theme=dark)](https://git.io/streak-stats)
