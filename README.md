@@ -12,11 +12,13 @@ I'm a cybersecurity student and a developer in C++ and Python, with a passion fo
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0078D7?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasco0x4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+<div align="center">
+  <a href="(https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasco0x4&layout=compact&theme=dark" alt="Top Langs">
+  </a>
+</div>
 
-### GitHub Stats
-[![Vasco0x4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasco0x4)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasco0x4&theme=dark)](https://git.io/streak-stats)
+[![Vasco0x4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasco0x4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasco0x4)](https://git.io/streak-stats)
