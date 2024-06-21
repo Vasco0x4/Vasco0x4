@@ -15,6 +15,7 @@ I'm a cybersecurity student and a developer in C++ and Python, with a passion fo
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasco0x4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Vasco0x4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasco0x4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak Stats
