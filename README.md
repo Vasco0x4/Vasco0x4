@@ -3,6 +3,13 @@
 I'm a cybersecurity student and a developer in C++ and Python, with a passion for reverse engineering, memory hacking, C2 server, and malware development.
 
 
+# Ongoing Projects :
+1. C2 (Command and Control) Server Detection API
+Creating an API dedicated to the detection of C2 servers. This API sends requests to various URLs and ports, posing as a beacon. It then analyzes the responses received to determine if the target server is a C2 server.
+
+2. Alternative to EDRs: Monitoring and Detecting Suspicious Windows API Calls
+I am also developing an alternative solution to Endpoint Detection and Response (EDR) systems, focusing on monitoring Windows APIs. This project aims to identify suspicious behavior by analyzing the API calls made by running applications.
+
 ### Languages and Tools:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
