@@ -10,6 +10,7 @@ Creating an API dedicated to the detection of C2 servers. This API sends request
 2. Alternative to EDRs: Monitoring and Detecting Suspicious Windows API Calls
 I am also developing an alternative solution to Endpoint Detection and Response (EDR) systems, focusing on monitoring Windows APIs. This project aims to identify suspicious behavior by analyzing the API calls made by running applications.
 
+
 ### Languages and Tools:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -35,3 +36,8 @@ I am also developing an alternative solution to Endpoint Detection and Response 
 
 ### Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasco0x4&theme=dark)](https://git.io/streak-stats)
+
+
+Discord: [Vasco0x4]
+
+Email: [vasco0x4@proton.me]
