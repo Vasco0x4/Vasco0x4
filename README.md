@@ -29,5 +29,7 @@ I specialize in reverse engineering, memory hacking, C2 server analysis, and mal
 |-------------------------------------------|-------------------------------------------------------|
 | [ShellLoader_Hub](https://github.com/Vasco0x4/ShellLoader_Hub) | A repository for shellcode loader development and research. |
 
+--- 
+
 ### 📊 Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasco0x4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
