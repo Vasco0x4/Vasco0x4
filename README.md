@@ -23,6 +23,12 @@ I specialize in reverse engineering, memory hacking, C2 server analysis, and mal
 | [ShadeLoader](https://github.com/Vasco0x4/ShadeLoader) | A custom loader for executing shellcode with evading techniques. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B) |
 | [Simple Process Hollowing](https://github.com/Vasco0x4/SimpleProcessHollowing) | Demonstration of process hollowing for shellcode execution. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B) |
 
+### 🌟 Active Forks:
+| Repository | Description |
+|------------|-------------|
+| [xenoRAT](https://github.com/Vasco0x4/xenoRAT) | Remote Access Tool|
+
+
 
 ### 🔖 Documentation Resources:
 | Resource                                  | Description                                           |                                                                                
