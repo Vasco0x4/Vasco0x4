@@ -6,10 +6,6 @@
 
 I specialize in reverse engineering, memory hacking, C2 server analysis, and malware development.
 
-### 🔧 Ongoing Projects:
-- **C2 Server Detection API**: Scanning URLs and ports to detect Command & Control servers by analyzing response patterns.
-- **Windows API Monitoring for Suspicious Activity**: Developing an EDR alternative that monitors Windows API calls for signs of malicious behavior.
-
 ---
 
 ### 🔥 AI & LLM Projects:
