@@ -1,37 +1,37 @@
-# Hello, I'm Vasco0x4!
-![Neo in action](https://imgur.com/r8ng7nn.gif)
+# Vasco0x4
 
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Cybersecurity | C++ & Python Developer**
-
-I specialize in reverse engineering, memory hacking, C2 server analysis, and malware development.
+Penetration Tester | Security Researcher
 
 ---
 
-### 🔥 AI & LLM Projects:
-| Project | Description | Language |
-|---------|-------------|--------------|
-| [Neo-AI](https://github.com/Vasco0x4/Neo-AI) | Neo AI integrates into the Linux terminal | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python) |
+## Featured Project
 
-### 🛡️ Malware Development:
-| Project | Description | Language |
-|---------|-------------|--------------|
-| [ShadeLoader](https://github.com/Vasco0x4/ShadeLoader) | A custom loader for executing shellcode with evading techniques. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B) |
-| [Simple Process Hollowing](https://github.com/Vasco0x4/SimpleProcessHollowing) | Demonstration of process hollowing for shellcode execution. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B) |
+### [AIDA](https://github.com/Vasco0x4/AIDA) - AI-Driven Security Assessment
 
-### 🌟 Active Forks:
-| Repository | Description |
-|------------|-------------|
-| [xenoRAT](https://github.com/Vasco0x4/xenoRAT) | Remote Access Tool|
+Connect AI assistants to 400+ penetration testing tools through the Model Context Protocol (MCP). AIDA automates reconnaissance, vulnerability scanning, exploitation, and post-exploitation workflows by bridging LLMs with offensive security tooling.
 
+**Key Features:**
+- MCP-based architecture for seamless AI integration
+- Real-time dashboard for engagement tracking
+- Automated tool execution through natural language
 
+---
 
-### 🔖 Documentation Resources:
-| Resource                                  | Description                                           |                                                                                
-|-------------------------------------------|-------------------------------------------------------|
-| [ShellLoader_Hub](https://github.com/Vasco0x4/ShellLoader_Hub) | A repository for shellcode loader development and research. |
+## Other Projects
 
---- 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [ShadeLoader](https://github.com/Vasco0x4/ShadeLoader) | Shellcode loader with process hollowing and AV evasion techniques | C++ |
+| [ShellLoader_Hub](https://github.com/Vasco0x4/ShellLoader_Hub) | Research repository for shellcode injection methods | Documentation |
+| [Neo-AI](https://github.com/Vasco0x4/Neo-AI) | Terminal-integrated AI assistant for security operations | Python |
 
-### 📊 Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasco0x4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## Contact
+
+**Email:** Vasco0x4@proton.me  
+**Website:** [vasco0x4.me](http://vasco0x4.me)
