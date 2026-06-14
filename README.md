@@ -14,11 +14,6 @@ Penetration Tester | Security Researcher
 
 Connect AI assistants to 400+ penetration testing tools through the Model Context Protocol (MCP). AIDA automates reconnaissance, vulnerability scanning, exploitation, and post-exploitation workflows by bridging LLMs with offensive security tooling.
 
-**Key Features:**
-- MCP-based architecture for seamless AI integration
-- Real-time dashboard for engagement tracking
-- Automated tool execution through natural language
-
 ---
 
 ## Other Projects
