@@ -10,8 +10,6 @@ Penetration Tester | Security Researcher
 
 ## Published CVEs
 
-9 advisories · peak CVSS 10.0 · responsibly disclosed
-
 | CVE | Target | Severity | CVSS | Type |
 |-----|--------|----------|------|------|
 | [CVE-2026-49869](https://www.cve.org/CVERecord?id=CVE-2026-49869) | kestra-io/kestra | Critical | 10.0 | Unauthenticated RCE |
